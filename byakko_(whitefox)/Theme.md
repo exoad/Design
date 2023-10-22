@@ -8,6 +8,11 @@
 
 **Hex**: `#fa5286`
 
+## Secondary 1 (`--fg2(3)`) 
+![image](https://github.com/exoad/Design/assets/45053009/32d61537-551e-4606-942c-6e43a3d35692)
+
+**Hex**: `#2c3552`
+
 ## Contrast Primary (`--bg`)
 ![](https://user-images.githubusercontent.com/45053009/277136415-f5a6ff11-040e-4403-a4f3-53d0e76707bd.png)
 
